@@ -1,0 +1,7 @@
+C:\Users\Razvan\source\repos\CSC200 Module 02\CSC200 Module 02\bin\Debug\CSC200 Module 02.exe.config
+C:\Users\Razvan\source\repos\CSC200 Module 02\CSC200 Module 02\bin\Debug\CSC200 Module 02.exe
+C:\Users\Razvan\source\repos\CSC200 Module 02\CSC200 Module 02\bin\Debug\CSC200 Module 02.pdb
+C:\Users\Razvan\source\repos\CSC200 Module 02\CSC200 Module 02\obj\Debug\CSC200 Module 02.csprojAssemblyReference.cache
+C:\Users\Razvan\source\repos\CSC200 Module 02\CSC200 Module 02\obj\Debug\CSC200 Module 02.csproj.CoreCompileInputs.cache
+C:\Users\Razvan\source\repos\CSC200 Module 02\CSC200 Module 02\obj\Debug\CSC200 Module 02.exe
+C:\Users\Razvan\source\repos\CSC200 Module 02\CSC200 Module 02\obj\Debug\CSC200 Module 02.pdb
