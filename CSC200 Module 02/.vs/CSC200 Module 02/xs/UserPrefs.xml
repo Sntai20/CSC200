@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{39AF2134-4D20-4069-AE8B-71734B9ECE95}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CSC200 Module 02/Program.cs">
+    <Files>
+      <File FileName="CSC200 Module 02/Program.cs" Line="69" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CSC200 Module 02" expanded="True">
+            <Node name="CSC200 Module 02" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.CSC200_220Module_22002 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
