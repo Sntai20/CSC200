@@ -1,0 +1,15 @@
+C:\Users\Razvan\source\repos\Module03 Events\Module03 Events\bin\Debug\Module03 Events.exe.config
+C:\Users\Razvan\source\repos\Module03 Events\Module03 Events\bin\Debug\Module03 Events.exe
+C:\Users\Razvan\source\repos\Module03 Events\Module03 Events\bin\Debug\Module03 Events.pdb
+C:\Users\Razvan\source\repos\Module03 Events\Module03 Events\obj\Debug\Module03 Events.csprojAssemblyReference.cache
+C:\Users\Razvan\source\repos\Module03 Events\Module03 Events\obj\Debug\MainWindow.g.cs
+C:\Users\Razvan\source\repos\Module03 Events\Module03 Events\obj\Debug\App.g.cs
+C:\Users\Razvan\source\repos\Module03 Events\Module03 Events\obj\Debug\Module03 Events_MarkupCompile.cache
+C:\Users\Razvan\source\repos\Module03 Events\Module03 Events\obj\Debug\Module03 Events_MarkupCompile.lref
+C:\Users\Razvan\source\repos\Module03 Events\Module03 Events\obj\Debug\MainWindow.baml
+C:\Users\Razvan\source\repos\Module03 Events\Module03 Events\obj\Debug\Module03 Events.g.resources
+C:\Users\Razvan\source\repos\Module03 Events\Module03 Events\obj\Debug\Module03_Events.Properties.Resources.resources
+C:\Users\Razvan\source\repos\Module03 Events\Module03 Events\obj\Debug\Module03 Events.csproj.GenerateResource.cache
+C:\Users\Razvan\source\repos\Module03 Events\Module03 Events\obj\Debug\Module03 Events.csproj.CoreCompileInputs.cache
+C:\Users\Razvan\source\repos\Module03 Events\Module03 Events\obj\Debug\Module03 Events.exe
+C:\Users\Razvan\source\repos\Module03 Events\Module03 Events\obj\Debug\Module03 Events.pdb

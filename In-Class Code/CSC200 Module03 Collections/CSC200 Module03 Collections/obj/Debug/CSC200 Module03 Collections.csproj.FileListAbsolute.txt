@@ -1,0 +1,7 @@
+C:\Users\Razvan\source\repos\CSC200 Module03 Collections\CSC200 Module03 Collections\bin\Debug\CSC200 Module03 Collections.exe.config
+C:\Users\Razvan\source\repos\CSC200 Module03 Collections\CSC200 Module03 Collections\bin\Debug\CSC200 Module03 Collections.exe
+C:\Users\Razvan\source\repos\CSC200 Module03 Collections\CSC200 Module03 Collections\bin\Debug\CSC200 Module03 Collections.pdb
+C:\Users\Razvan\source\repos\CSC200 Module03 Collections\CSC200 Module03 Collections\obj\Debug\CSC200 Module03 Collections.csprojAssemblyReference.cache
+C:\Users\Razvan\source\repos\CSC200 Module03 Collections\CSC200 Module03 Collections\obj\Debug\CSC200 Module03 Collections.csproj.CoreCompileInputs.cache
+C:\Users\Razvan\source\repos\CSC200 Module03 Collections\CSC200 Module03 Collections\obj\Debug\CSC200 Module03 Collections.exe
+C:\Users\Razvan\source\repos\CSC200 Module03 Collections\CSC200 Module03 Collections\obj\Debug\CSC200 Module03 Collections.pdb
